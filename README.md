@@ -9,9 +9,6 @@ Un desarrollador de software recién graduado con un enfoque en la creación de 
 <br><br>
 Además de mi pasión por la programación, también me siento atraído por el diseño web y el desarrollo front-end. Durante el bootcamp, tuve la oportunidad de trabajar en un emocionante proyecto final: una aplicación web de componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés en el diseño, creando soluciones atractivas y funcionales.
 <br><br>
-Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarrollo de software y el diseño web, y estoy listo para asumir nuevos desafíos y oportunidades en este campo.
-
-
 
 ## 🌐 Redes Sociales:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-coronel-363152282/) 
@@ -35,7 +32,14 @@ Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarroll
     </td>
   </tr>
 </table>
+<br><br>
+Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarrollo de software y el diseño web, y estoy listo para asumir nuevos desafíos y oportunidades en este campo.
 
+Puedes contactarme vía correo electrónico a:
+juanocoronel@gmail.com
+
+Consulta mi Linkedin en:
+www.linkedin.com/in/juan-coronel-363152282
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juanocoronel&icon=6&color=1)](https://visitcount.itsvg.in)
