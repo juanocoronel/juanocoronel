@@ -31,9 +31,11 @@ Además de mi pasión por la programación, también me siento atraído por el d
     </td>
   </tr>
 </table>
+
 <br><br>
 Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarrollo de software y el diseño web, y estoy listo para asumir nuevos desafíos y oportunidades en este campo.
 <br><br>
+
 **Puedes contactarme vía correo electrónico:**  
 **juanocoronel@gmail.com**
 
