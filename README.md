@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
 
-Un desarrollador de software recién graduado con un enfoque en la creación de software. Realice un bootcamp especializado en Desarrollo Full Stack, donde adquirí conocimientos en una variedad de tecnologías como JavaScript, SQL, React, Python, Flask, HTML, CSS y la integración de APIs.
+Un desarrollador de software recién graduado con un enfoque en la creación de software. Realice un bootcamp especializado en Desarrollo Full Stack, donde adquirí conocimientos en una variedad de tecnologías.
 <br><br>
 Además de mi pasión por la programación, también me siento atraído por el diseño web y el desarrollo front-end. Durante el bootcamp, tuve la oportunidad de trabajar en un emocionante proyecto final: una aplicación web de componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés en el diseño, creando soluciones atractivas y funcionales.
 <br><br>
