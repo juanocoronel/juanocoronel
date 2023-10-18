@@ -35,11 +35,13 @@ Además de mi pasión por la programación, también me siento atraído por el d
 <br><br>
 Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarrollo de software y el diseño web, y estoy listo para asumir nuevos desafíos y oportunidades en este campo.
 
-Puedes contactarme vía correo electrónico a:
-juanocoronel@gmail.com
+**Puedes contactarme vía correo electrónico:**  
+**juanocoronel@gmail.com**
 
-Consulta mi Linkedin en:
-www.linkedin.com/in/juan-coronel-363152282
+**Consulta mi Linkedin en:**  
+**www.linkedin.com/in/juan-coronel-363152282**
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juanocoronel&icon=6&color=1)](https://visitcount.itsvg.in)
