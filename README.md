@@ -38,7 +38,7 @@ Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarroll
 **Puedes contactarme vía correo electrónico:**  
 **juanocoronel@gmail.com**
 
-**Consulta mi Linkedin en:**  
+**Consulta mi Linkedin:**  
 **www.linkedin.com/in/juan-coronel-363152282**
 
 ---
