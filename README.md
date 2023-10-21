@@ -6,7 +6,7 @@ Un desarrollador de software recién graduado con un enfoque en la creación de 
 <br><br>
 Además de mi pasión por la programación, también me siento atraído por el diseño web y el desarrollo Front-End. Durante el bootcamp, tuve la oportunidad de trabajar en un emocionante proyecto final: una aplicación web de componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés en el diseño, creando soluciones atractivas y funcionales.
 <br><br>
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coronel-363152282)
+
 
 
 # 💻 Tecnologías:
