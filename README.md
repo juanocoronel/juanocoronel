@@ -1,9 +1,6 @@
 # Hola, Soy Juan Coronel 👋🏻
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
 Un desarrollador de software recién graduado con un enfoque en la creación de software. Complete con éxito un bootcamp especializado en Desarrollo Full Stack, donde adquirí conocimientos en una variedad de tecnologías.
 <br><br>
