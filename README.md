@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
-Graduado en desarrollo de software con un enfoque apasionado en la creación de aplicaciones. Mi entusiasmo por la programación me ha llevado a explorar otras áreas relacionadas, como el diseño web y el desarrollo Front-End. Durante mi formación, tuve la oportunidad de colaborar en un emocionante proyecto: la creación de una aplicación web que se centró en componentes y estilos. Esta experiencia me permitió fusionar mis habilidades técnicas con mi interés por el diseño, dando lugar a soluciones atractivas y altamente funcionales.
+Desarrollador de software apasionado por la creación de aplicaciones. Mi entusiasmo por la programación me ha llevado a explorar campos relacionados, como el diseño web y el desarrollo Front-End. Durante mi formación, colaboré en un emocionante proyecto: creando una aplicación web centrada en componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés por el diseño, resultando en soluciones atractivas y altamente funcionales.
 <br><br>
 
 
