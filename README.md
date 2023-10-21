@@ -2,9 +2,7 @@
 
 ![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
-Un desarrollador de software recién graduado con un enfoque en la creación de software. Complete con éxito un bootcamp especializado en Desarrollo Full Stack, donde adquirí conocimientos en una variedad de tecnologías.
-<br><br>
-Además de mi pasión por la programación, también me siento atraído por el diseño web y el desarrollo Front-End. Durante el bootcamp, tuve la oportunidad de trabajar en un emocionante proyecto final: una aplicación web de componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés en el diseño, creando soluciones atractivas y funcionales.
+Graduado en desarrollo de software con un enfoque apasionado en la creación de aplicaciones. Mi entusiasmo por la programación me ha llevado a explorar otras áreas relacionadas, como el diseño web y el desarrollo Front-End. Durante mi formación, tuve la oportunidad de colaborar en un emocionante proyecto: la creación de una aplicación web que se centró en componentes y estilos. Esta experiencia me permitió fusionar mis habilidades técnicas con mi interés por el diseño, dando lugar a soluciones atractivas y altamente funcionales.
 <br><br>
 
 
