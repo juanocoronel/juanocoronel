@@ -36,7 +36,7 @@ Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarroll
 **juanocoronel@gmail.com**
 
 **Consulta mi Linkedin:**  
-**www.linkedin.com/in/juan-coronel-363152282**
+**www.linkedin.com/in/juancoronel-**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juanocoronel&icon=6&color=1)](https://visitcount.itsvg.in)
