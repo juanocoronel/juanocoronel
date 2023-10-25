@@ -30,7 +30,7 @@ Durante mi formación, colaboré en un emocionante proyecto: creando una aplicac
   </tr>
 </table>
 
-<br><br>
+<br>
 Estoy emocionado por continuar aprendiendo y creciendo en el mundo del desarrollo de software y el diseño web, y estoy listo para asumir nuevos desafíos y oportunidades en este campo.
 <br><br>
 
