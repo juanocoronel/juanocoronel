@@ -19,9 +19,9 @@ Durante mi formación, colaboré en un emocionante proyecto: creando una aplicac
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=juanocoronel&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
-    <td align="center">
+   [ <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanocoronel&theme=react&hide_border=false" />
-    </td>
+    </td>](url)
   </tr>
   <tr>
     <td align="center" colspan="2">
