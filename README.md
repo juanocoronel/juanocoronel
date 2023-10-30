@@ -4,7 +4,7 @@
 
 Desarrollador de software apasionado por la creación de aplicaciones. Mi entusiasmo por la programación me ha llevado a explorar campos relacionados, como el diseño web y el desarrollo Front-End.
 <br><br>
-Durante mi formación, colaboré en un emocionante proyecto: creando una aplicación web centrada en componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés por el diseño, resultando en soluciones atractivas y altamente funcionales.
+Durante mi formación, colaboré en un emocionante proyecto: creando una aplicación web centrada en componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés por el diseño, resultando en soluciones atractivas y altamente funcionales.  
 <br><br>
 
 ## 🌐 Socials:
