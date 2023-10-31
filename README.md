@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
-Programador Full Stack con entusiasmo por la tecnología y un deseo constante de aprender. He tenido la oportunidad de trabajar en diversos proyectos desafiantes que me han proporcionado valiosas habilidades para crear soluciones innovadoras.
+Programador Full Stack apasionado por la tecnología y un deseo constante de aprender. He tenido la oportunidad de trabajar en diversos proyectos desafiantes que me han proporcionado valiosas habilidades para crear soluciones innovadoras.
 <br><br>
 Además de mi carrera en desarrollo de software, soy un fotógrafo profesional y un creador de contenido en redes sociales. Esta experiencia me ha permitido fusionar creatividad y tecnología, añadiendo un enfoque distintivo a mis proyectos.
 <br><br>
