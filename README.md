@@ -2,10 +2,11 @@
 
 ![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
-Desarrollador de software apasionado por la creación de aplicaciones. Mi entusiasmo por la programación me ha llevado a explorar campos relacionados, como el diseño web y el desarrollo Front-End.
-<br><br>
-Durante mi formación, colaboré en un emocionante proyecto: creando una aplicación web centrada en componentes y estilos. Esta experiencia me permitió combinar mis habilidades técnicas con mi interés por el diseño, resultando en soluciones atractivas y altamente funcionales.  
-<br><br>
+Programador Full Stack en etapa junior con entusiasmo por la tecnología y un deseo constante de aprender. He tenido la oportunidad de trabajar en diversos proyectos desafiantes que me han proporcionado valiosas habilidades para crear soluciones innovadoras.
+<br>
+Además de mi carrera en desarrollo de software, soy un fotógrafo profesional y un creador de contenido en redes sociales. Esta experiencia me ha permitido fusionar creatividad y tecnología, añadiendo un enfoque distintivo a mis proyectos.
+<br>
+Estoy en búsqueda de nuevas oportunidades y emocionantes colaboraciones en el mundo del desarrollo de software y el diseño web. Si estás en la búsqueda de un profesional versátil con sólidas habilidades técnicas y un toque creativo en constante crecimiento, no dudes en contactarme.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juancoronel-) 
