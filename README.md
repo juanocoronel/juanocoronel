@@ -29,7 +29,7 @@ Estoy en búsqueda de nuevas oportunidades y emocionantes colaboraciones en el m
     </td>
   </tr>
 </table>
-
+<br><br>
 **Puedes contactarme vía correo electrónico:**  
 **juanocoronel@gmail.com**
 
