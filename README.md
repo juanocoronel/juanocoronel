@@ -7,7 +7,7 @@ Programador Full Stack apasionado por la tecnología y un deseo constante de apr
 Además de mi carrera en desarrollo de software, soy un fotógrafo profesional y un creador de contenido en redes sociales. Esta experiencia me ha permitido fusionar creatividad y tecnología, añadiendo un enfoque distintivo a mis proyectos.
 <br><br>
 Estoy en búsqueda de nuevas oportunidades y emocionantes colaboraciones en el mundo del desarrollo de software y el diseño web. Si estás en la búsqueda de un profesional versátil con sólidas habilidades técnicas y un toque creativo en constante crecimiento, no dudes en contactarme.
-
+<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juancoronel-) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:juanocoronell@gmail.com)
