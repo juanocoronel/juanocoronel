@@ -1,4 +1,4 @@
-# Hola, Soy Juan Coronel 👋🏻
+# Hola, Soy Juan Coronel!
 
 ![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
 
