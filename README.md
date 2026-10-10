@@ -4,11 +4,7 @@
 
 # 👋 ¡Hola! Soy Juan Coronel
 
-### 🎓 Estudiante de Licenciatura en Tecnologías de la Información Universidad Tecnologica del Uruguay
-
 </div>
-
----
 
 ## 🌱 Sobre mí
 
