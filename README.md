@@ -4,12 +4,7 @@
 
 # 👋 ¡Hola! Soy Juan Coronel
 
-### 🎓 Estudiante de Licenciatura en Tecnologías de la Información — UTEC 🇺🇾
-
-**Tecnología · Datos · Innovación agropecuaria 🌱**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancoronel-/)
-[![Gmail](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanocoronell@gmail.com)
+### 🎓 Estudiante de Licenciatura en Tecnologías de la Información Universidad Tecnologica del Uruguay
 
 </div>
 
@@ -46,30 +41,6 @@ Práctica de programación en Java, modelado de bases de datos, SQL, pruebas de 
 
 Interés en explorar aplicaciones, automatización y soluciones basadas en datos para el sector agropecuario.
 
----
-
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juanocoronel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanocoronel&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanocoronel&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad de GitHub" width="95%"/>
-
-</div>
-
----
-
-## 🌐 Contacto
-
-<div align="center">
-
-¿Te interesa la tecnología, los datos o la innovación aplicada al campo? ¡Conectemos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Coronel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancoronel-/)
-[![Gmail](https://img.shields.io/badge/Gmail-juanocoronell%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanocoronell@gmail.com)
 
 **Aprendiendo, creando y conectando la tecnología con el mundo real.** 🌱
 
